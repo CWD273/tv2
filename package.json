@@ -1,0 +1,14 @@
+
+{
+  "name": "m3u8-mime-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Worker for correcting M3U8 playlist MIME types",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
